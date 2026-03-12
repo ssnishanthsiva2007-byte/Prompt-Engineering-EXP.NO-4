@@ -85,3 +85,4 @@ A powerful processor ensures that applications run smoothly. Users can easily mu
 These features support everyday activities such as communication, learning, entertainment, photography, and productivity. A well-balanced smartphone improves efficiency and convenience in modern digital life.
 
   # RESULT:
+  Thus, the experiment has verified and executed successfully.
